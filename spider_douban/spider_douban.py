@@ -8,7 +8,8 @@ import csv
 
 headers ={
     'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Cookie':'ll="108297"; bid=ovHCcRxu2Zg; _pk_id.100001.8cb4=f215236900afba23.1706589087.; __utmz=30149280.1706589099.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; dbcl2="278712094:UmTGHBmHb+8"; push_noty_num=0; push_doumail_num=0; __utmv=30149280.27871; __yadk_uid=WAAmIkzCwjXCYgXy77nKAQGF0W4NANdz; ck=8w0v; ap_v=0,6.0; _pk_ref.100001.8cb4=%5B%22%22%2C%22%22%2C1709458613%2C%22https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DOL2bvMxgcH31RcFsZnZK40VZtA0buU2j8s_g5D_j8it8cc4gfAmQzl992wvguvrO%26wd%3D%26eqid%3D93e09281000de1080000000565b87b8a%22%5D; _pk_ses.100001.8cb4=1; __utma=30149280.1295308794.1706589099.1709123616.1709458615.7; __utmc=30149280; __utmt=1; frodotk_db="71d02666a14c540255707333e3e4fc06"; __utmb=30149280.8.10.1709458615',
+    'Cookie':'',
+    #you can fill with your cookie
     }
 
 #options=webdriver.ChromeOptions()
